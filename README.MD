@@ -34,3 +34,12 @@
 * Genere un Json de la tabla creada y guárdelo como data.json
 
 * La prueba debe ser entregada en un repositorio git.
+
+
+# Correr proyecto
+
+python main.py
+
+
+#### Nota:
+* se creo un notebook para mostrar el proceso mas detalladamente.
